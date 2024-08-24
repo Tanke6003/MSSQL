@@ -5,9 +5,9 @@
     - 1.2 Tipos de bases de datos
     - 1.3 Introducción a SQL y sus usos
     - 1.4 Tipos de datos en SQL Server
-    - 1.5 Nomeclatura del curso
+    - 1.5 Nomenclatura del curso
 2. **Instalación y Configuración**
-    - 2.1 Instalación de SQL Server 
+    - 2.1 Instalación de SQL Server     
     - 2.2 Creacion de un docker con SQL Server
     - 2.3 Instalacion de SSMS
 3. **Creación Bases de Datos**
@@ -30,10 +30,11 @@
 5. **Programabilidad**
     - 5.1 vistas
     - 5.2 procedimientos almacenados
-    - 5.3 funciones
-    - 5.4 tipos de datos personalizados
-    - 5.5 triggers
-    - 5.6 Jobs
+    - 5.3 transacciones
+    - 5.4 funciones
+    - 5.5 tipos de datos personalizados
+    - 5.6 triggers
+    - 5.7 Jobs
 6. **Optimización y Mantenimiento**
     - 6.1 Optimización de consultas
     - 6.2 Indices
